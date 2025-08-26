@@ -1,0 +1,203 @@
+form {
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.small {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 20%;
+}
+
+.mySmall {
+    color: red;
+    font-size: 10px;
+    padding-top: 5px;
+}
+
+.fullfill {
+    min-width: 40%;
+}
+
+.width-100-percent
+{
+    width: 100%;
+}
+
+.montserrat {
+    font-family: Montserrat;
+}
+
+.title {
+    padding: .375rem .75rem;
+}
+
+.bg-dark-alpha {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.bg-white-alpha {
+    background-color: rgba(255,255,255,0.5);
+}
+
+.border-top-radius {
+    border-radius: 7.5px;
+}
+
+.paddingA {
+    padding: .375rem .75rem;
+}
+
+.notRadius {
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+
+.small2 {
+    top: 50%;
+    left: 50%;
+    min-width: 20%;
+}
+
+.config-of-container {
+    align-content: center;
+    padding-top: 20px;
+}
+
+.no-margin-bottom {
+    margin-bottom: 0px!important;
+}
+
+.margin-top-10 {
+    margin-top: 10px;
+}
+
+.container-60 {
+    margin-left: 25%;
+    width: 50%;
+}
+
+nav {
+
+}
+
+button {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.nav-item:focus {
+    background-color: rgba(255,255,255,0.2);
+    color: white;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    outline: none!important;
+    box-shadow: none!important;
+}
+
+.nav-item:hover {
+    animation-duration: 4s;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    outline: none!important;
+    box-shadow: none!important;
+
+    animation-name: myAnimation;
+    animation-duration: 1s;
+}
+
+.nav-item {
+    border-radius: 0px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.nav-item-2 {
+    border-radius: 0px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.border-bottom-radius {
+    border-radius: 7.5px;
+    border-top-right-radius: 0px;
+    border-top-left-radius: 0px;
+}
+
+.not-invisible {
+    color: #9a9da0;
+}
+
+.green {
+    color: #00916b
+}
+
+.width-25-percent {
+    width: 25%;
+}
+
+.text-advise {
+    color: rgb(62, 141, 250)!important;
+}
+
+.flex-row-2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+.bg-grey {
+    background-color: rgb(245,245,245)!important;
+}
+.red {
+    color: #cf2511!important;
+}
+
+
+.profile-barrier {
+    background-color: #343a40;
+}
+
+@keyframes myAnimation {
+    100% {
+        background-color: rgba(255,255,255,0.2);
+        color: white;
+    }
+}
+
+.to-right {
+    margin-right: 0%;
+}
+
+/*
+Горда Стара планина,
+до ней Дунава синей,
+слънце Тракия огрява,
+над Пирина пламеней.
+
+Припев:
+Мила Родино,
+ти си земен рай,
+твойта хубост, твойта прелест,
+ах, те нямат край.
+
+II
+Паднаха борци безчет,
+за народа наш любим,
+майко, дай ни мъжка сила,
+пътя им да продължим.*
+
+Припев
+
+III
+Дружно, братя българи!
+С нас Москва е в мир и в бой!
+Партия велика води
+нашия победен строй.*
+
+Припев
+*/
+

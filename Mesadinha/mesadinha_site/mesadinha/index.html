@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Mesadinha</title>
+    <link href="bootstrap-4.5.3-dist/css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <link href="bootstrap-4.5.3-dist/js/bootstrap.min.css" rel="stylesheet" media="screen">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="style.css" rel="stylesheet">
+</head>
+<body class="bg-dark">
+    <form class="small bg-white" method="post" action="dashboard.php">
+        <div class="form-group">
+            <img src="Imagens/user.png" width="100%">
+        </div>
+        <div class="form-group">
+            <label for="email" class="text-dark">E-mail</label>
+            <input type="email" class="form-control" name="email">
+        </div>
+        <div class="form-group">
+            <label for="password" class="text-dark">Senha</label>
+            <input type="password" class="form-control" name="password">
+        </div>
+        <div class="form-group text-center">
+            <button type="submit" class="btn btn-success fullfill" name="log-in">Entrar</button>
+            <a href="cadastro.php" class="btn btn-primary fullfill">Cadastre-se</a>
+        </div>
+    </form>
+</body>
+</html>

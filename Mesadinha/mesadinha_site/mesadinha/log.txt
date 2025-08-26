@@ -1,0 +1,11 @@
+09/11 ->
+    Rodrigo:
+        Criação da Tela de Login
+        Criação da Tela de Cadastro
+    Lucas:
+        Conexão do PHP com o Banco de Dados
+        Criação do Sistema de Cadastro e Login
+    Thiago:
+        Criação do Banco de Dados
+
+12/11 ->
