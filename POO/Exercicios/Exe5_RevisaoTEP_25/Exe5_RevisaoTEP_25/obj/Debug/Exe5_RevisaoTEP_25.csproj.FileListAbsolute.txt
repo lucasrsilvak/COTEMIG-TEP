@@ -1,0 +1,10 @@
+C:\Users\ribei\source\repos\Exe5_RevisaoTEP_25\Exe5_RevisaoTEP_25\bin\Debug\Exe5_RevisaoTEP_25.exe.config
+C:\Users\ribei\source\repos\Exe5_RevisaoTEP_25\Exe5_RevisaoTEP_25\bin\Debug\Exe5_RevisaoTEP_25.exe
+C:\Users\ribei\source\repos\Exe5_RevisaoTEP_25\Exe5_RevisaoTEP_25\bin\Debug\Exe5_RevisaoTEP_25.pdb
+C:\Users\ribei\source\repos\Exe5_RevisaoTEP_25\Exe5_RevisaoTEP_25\obj\Debug\Exe5_RevisaoTEP_25.csprojAssemblyReference.cache
+C:\Users\ribei\source\repos\Exe5_RevisaoTEP_25\Exe5_RevisaoTEP_25\obj\Debug\Exe5_RevisaoTEP_25.Form1.resources
+C:\Users\ribei\source\repos\Exe5_RevisaoTEP_25\Exe5_RevisaoTEP_25\obj\Debug\Exe5_RevisaoTEP_25.Properties.Resources.resources
+C:\Users\ribei\source\repos\Exe5_RevisaoTEP_25\Exe5_RevisaoTEP_25\obj\Debug\Exe5_RevisaoTEP_25.csproj.GenerateResource.cache
+C:\Users\ribei\source\repos\Exe5_RevisaoTEP_25\Exe5_RevisaoTEP_25\obj\Debug\Exe5_RevisaoTEP_25.csproj.CoreCompileInputs.cache
+C:\Users\ribei\source\repos\Exe5_RevisaoTEP_25\Exe5_RevisaoTEP_25\obj\Debug\Exe5_RevisaoTEP_25.exe
+C:\Users\ribei\source\repos\Exe5_RevisaoTEP_25\Exe5_RevisaoTEP_25\obj\Debug\Exe5_RevisaoTEP_25.pdb

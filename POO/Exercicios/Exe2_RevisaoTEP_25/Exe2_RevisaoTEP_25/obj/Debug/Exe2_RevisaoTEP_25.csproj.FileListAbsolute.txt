@@ -1,0 +1,9 @@
+C:\Users\ribei\source\repos\Exe2_RevisaoTEP_25\Exe2_RevisaoTEP_25\bin\Debug\Exe2_RevisaoTEP_25.exe.config
+C:\Users\ribei\source\repos\Exe2_RevisaoTEP_25\Exe2_RevisaoTEP_25\bin\Debug\Exe2_RevisaoTEP_25.exe
+C:\Users\ribei\source\repos\Exe2_RevisaoTEP_25\Exe2_RevisaoTEP_25\bin\Debug\Exe2_RevisaoTEP_25.pdb
+C:\Users\ribei\source\repos\Exe2_RevisaoTEP_25\Exe2_RevisaoTEP_25\obj\Debug\Exe2_RevisaoTEP_25.frmQuestao2.resources
+C:\Users\ribei\source\repos\Exe2_RevisaoTEP_25\Exe2_RevisaoTEP_25\obj\Debug\Exe2_RevisaoTEP_25.Properties.Resources.resources
+C:\Users\ribei\source\repos\Exe2_RevisaoTEP_25\Exe2_RevisaoTEP_25\obj\Debug\Exe2_RevisaoTEP_25.csproj.GenerateResource.cache
+C:\Users\ribei\source\repos\Exe2_RevisaoTEP_25\Exe2_RevisaoTEP_25\obj\Debug\Exe2_RevisaoTEP_25.csproj.CoreCompileInputs.cache
+C:\Users\ribei\source\repos\Exe2_RevisaoTEP_25\Exe2_RevisaoTEP_25\obj\Debug\Exe2_RevisaoTEP_25.exe
+C:\Users\ribei\source\repos\Exe2_RevisaoTEP_25\Exe2_RevisaoTEP_25\obj\Debug\Exe2_RevisaoTEP_25.pdb
